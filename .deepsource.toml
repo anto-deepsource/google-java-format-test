@@ -1,0 +1,3 @@
+[[transformers]]
+name = "google-java-format"
+enabled = true
