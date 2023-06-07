@@ -1,3 +1,5 @@
+version = 1
+
 [[transformers]]
 name = "google-java-format"
 enabled = true
